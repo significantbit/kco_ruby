@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["peter@significantbit.se"]
   spec.summary       = "A port of Klarna Checkout API to Ruby"
   spec.description   = "Klarna Checkout library"
-  spec.homepage      = "http://www.significantbit.se"
+  spec.homepage      = "https://github.com/significantbit/kco_ruby"
   spec.license       = "Apache 2"
 
   spec.files         = `git ls-files -z`.split("\x0")
