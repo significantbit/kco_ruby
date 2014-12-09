@@ -1,4 +1,4 @@
-require 'Digest'
+require 'digest'
 module KcoRuby
   #Creates a digester proc
   def self.create_digester(secret)
