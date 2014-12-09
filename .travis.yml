@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+  - 1.9.3
+  - 2.0.0
+  - 2.1.1
+
+addons:
+  code_climate:
+    repo_token:
+      secure: "WaXNU8k/aMEXYvYkfaisNGhLjYnuX7Ninr9Pr7A7R7GdKYkL7hBX2y7zskSiHNQuUFQEujCvse40qw2ZXmzK7lM3ZQlk1QS5r+4ZtwuwJIwJ3WeJvQCJmjoawCCT/KBktBXFtM8Omyzgr0oQnOjTZBiDg3F7sV0k+NutDrl3nhQ="
+
+script: 'bundle exec rake'

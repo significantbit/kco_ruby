@@ -1,6 +1,8 @@
 # KcoRuby
 
-This gem is a port from Klarnas python API for Klarna Checkout
+[![Gem Version](https://badge.fury.io/rb/kco_ruby.svg)](http://badge.fury.io/rb/kco_ruby)
+
+This gem is an unofficial port from Klarnas python API for Klarna Checkout
 
 ## Installation
 
@@ -69,13 +71,16 @@ Or install it yourself as:
 ```
 
 ## Documentation
-You can use the official documentation from http://developers.klarna.com for Python with one exception,
-all classes are found in KcoRuby module
+You can use the official documentation from http://developers.klarna.com for Python with two exceptions:
+
+1. All classes are found in KcoRuby module
+2. Use Ruby hashes instead of Python Dict
+
 
 ## Todo
-Add more tests for not so happy paths
-Add more examples
-Add Exception classes
+1. Add more tests for not so happy paths
+2. Add more examples
+3. Add Exception classes
 
 ## Contributing
 
