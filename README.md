@@ -1,6 +1,8 @@
 # KcoRuby
 
 [![Gem Version](https://badge.fury.io/rb/kco_ruby.svg)](http://badge.fury.io/rb/kco_ruby)
+[![Code Climate](https://codeclimate.com/github/significantbit/kco_ruby/badges/gpa.svg)](https://codeclimate.com/github/significantbit/kco_ruby)
+[![Test Coverage](https://codeclimate.com/github/significantbit/kco_ruby/badges/coverage.svg)](https://codeclimate.com/github/significantbit/kco_ruby)
 
 This gem is an unofficial port from Klarnas python API for Klarna Checkout
 
